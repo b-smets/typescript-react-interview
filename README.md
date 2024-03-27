@@ -1,14 +1,12 @@
-# React Web developer programming challange
+# React Web developer programming challenge
 
 ## Exercise Description
 
-We'd like you to demonstrate your abilities in creating functional React components using hooks.
+We would like you to demonstrate your abilities in creating functional React components using hooks.
 
 ### Basic Task
 
 Your task is to develop a functional component (or components) in React using hooks to display a list of products fetched from the following API: https://dummyjson.com/products
-
-We're specifically interested in seeing your usage of the `useEffect` hook for making the GET request to fetch the data. We'd also like you to create a separate component for the list of products.
 
 ### Extended Task
 
